@@ -82,4 +82,8 @@
     .gpt3__possibility-image{
         margin: 0.5rem 0;
     }
+    .gpt3__possibility-image img {
+        width: 274.855px;
+        height: 342.691px;
+    }
 }
