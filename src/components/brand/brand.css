@@ -1,8 +1,9 @@
-.gpt__brand{
+    .gpt__brand{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    width: 100%;
 }
 .gpt__brand div{
     flex: 1;
