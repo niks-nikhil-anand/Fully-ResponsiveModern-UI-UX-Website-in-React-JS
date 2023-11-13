@@ -51,23 +51,33 @@
     cursor: pointer;
 }
 
-@media  screen and (max-width:650px) {
-    .gpt3__cta{
+@media screen and (max-width:650px) {
+    .gpt3__cta {
         flex-direction: column;
     }
-    .gpt3__cta-btn{
+
+    .gpt3__cta-btn {
         margin: 2rem 0 0;
     }
 }
-@media  screen and (max-width:550px) {
-    .gpt3__cta{
+
+@media screen and (max-width:550px) {
+    .gpt3__cta {
         margin: 4rem 2rem;
+        /* background-color: rgb(231, 22, 22); */
     }
-    .gpt3__cta-content h1{
+
+    .gpt3__cta-content h3 {
         font-size: 18px;
         line-height: 32px;
     }
-    .gpt3__cta-btn button{
+
+    .gpt3__cta-content p {
+        font-size: 10px;
+        line-height: 23px;
+    }
+
+    .gpt3__cta-btn button {
         font-size: 14px;
         line-height: 28px;
     }
