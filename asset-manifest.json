@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GPT-3-Landing-Page/static/css/main.35d1edb7.css",
-    "main.js": "/GPT-3-Landing-Page/static/js/main.3e7881c5.js",
-    "static/media/ai.png": "/GPT-3-Landing-Page/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/GPT-3-Landing-Page/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/GPT-3-Landing-Page/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/GPT-3-Landing-Page/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/GPT-3-Landing-Page/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/GPT-3-Landing-Page/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/GPT-3-Landing-Page/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/logo4.png": "/GPT-3-Landing-Page/static/media/logo4.8e47dcd6a41526579f38.png",
-    "static/media/people.png": "/GPT-3-Landing-Page/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "index.html": "/GPT-3-Landing-Page/index.html",
-    "main.35d1edb7.css.map": "/GPT-3-Landing-Page/static/css/main.35d1edb7.css.map",
-    "main.3e7881c5.js.map": "/GPT-3-Landing-Page/static/js/main.3e7881c5.js.map"
+    "main.css": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/css/main.35d1edb7.css",
+    "main.js": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/js/main.cf5de67f.js",
+    "static/media/ai.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/logo4.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/logo4.8e47dcd6a41526579f38.png",
+    "static/media/people.png": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/index.html",
+    "main.35d1edb7.css.map": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/css/main.35d1edb7.css.map",
+    "main.cf5de67f.js.map": "/Fully-ResponsiveModern-UI-UX-Website-in-React-JS/static/js/main.cf5de67f.js.map"
   },
   "entrypoints": [
     "static/css/main.35d1edb7.css",
-    "static/js/main.3e7881c5.js"
+    "static/js/main.cf5de67f.js"
   ]
 }
